@@ -3,9 +3,8 @@
 <img width="800" alt="page" src="https://github.com/Techeer-log/.github/assets/134408891/1f1ed4cb-681a-4133-a4b2-0e70e6c3adae">
 
 # 🔗Medium
-- 
- <br>
-
+✔️[Spring Boot Log4j2 설정하기](https://medium.com/@201924576/spring-boot-log4j2-%EC%84%A4%EC%A0%95-21f3b6da38c6)
+<br>✔️[Pinpoint](https://medium.com/@wndjs803/pinpoint-f1320045ec32)
 # 🎥Demo
 |**Sign up and Login**|**Main Page**|
 |:-------------------:|:---------:|
@@ -16,7 +15,7 @@
 |<img width="390" alt="Diary" src="">|<img width="390" alt="View Past" src="">|
 
 # 🖥️System Architecture
-<img src="">
+<img src="https://github.com/Techeer-log/.github/assets/134408891/89e48a16-58ee-4c87-8d60-257868ac08ce">
 
 ## 💡 Tech stack 
 <br>
@@ -24,9 +23,9 @@
 
 분야| 사용 기술|
 :--------:|:------------------------------:|
-**Fronted** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailWind] (https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-**Backend** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-**DevOps** | 
+**Fronted** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+**Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+**DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 **etc** | ![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=) ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=) ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=) ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=) <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
 </div>
 
