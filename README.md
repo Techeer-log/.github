@@ -19,7 +19,6 @@
 <img src="">
 
 ## 💡 Tech stack 
-✔️ [The reason for selecting these tech stacks]()
 <br>
 <div align =center>
 
@@ -92,7 +91,14 @@ $ docker-compose -f docker-compose.deploy.yml up --build -d
 ```
 
 # 👨‍👩‍👧‍👦Members
-[정재빈](https://github.com/JaeBin2019)|[이민기](https://github.com/Kiminni)|[김가을](https://github.com/fallkim)|[김주언](https://github.com/wndjs803)|[이동우](https://github.com/dongwooooooo)|[박준서](https://github.com/JSWING5267)|[송유림](https://github.com/youlimsongs)|
-------|------|------|--------------------------------------|------|-----|------|
-<img width="300" alt="정재빈" src=""> | <img width="300" alt="이민기" src=""> | <img width="300" alt="김가을" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/f786596c-4364-4a0b-af1c-e0d7bb5edff1">| <img width="300" alt="김주언" src=""> | <img width="300" alt="이동우" src=""> | <img width="300" alt="박준서" src=""> | <img width="300" alt="송유림" src=""> | 
-Leader, Back-end, DevOps|Back-end, DevOps|Back-end, DevOps|Back-end, DevOps|Back-end, DevOps|Front-end|Front-end|Front-end|
+### Back-end Team
+[정재빈](https://github.com/JaeBin2019)|[이민기](https://github.com/Kiminni)|[김가을](https://github.com/fallkim)|[김주언](https://github.com/wndjs803)|[이동우](https://github.com/dongwooooooo)|
+------|------|------|------|------|
+<img width="300" alt="정재빈" src="https://github.com/Techeer-log/.github/assets/134408891/baca1dbb-527c-48a9-a28e-8d243cf531cc"> | <img width="300" alt="이민기" src="https://github.com/Techeer-log/.github/assets/134408891/5e5f191e-c50b-428d-8643-a61228ee215d"> | <img width="300" alt="김가을" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/f786596c-4364-4a0b-af1c-e0d7bb5edff1">| <img width="300" alt="김주언" src="https://github.com/Techeer-log/.github/assets/134408891/ef7493a2-d60f-4f67-ad47-fb495215f758"> | <img width="300" alt="이동우" src="https://github.com/Techeer-log/.github/assets/134408891/7fe589e5-4656-479e-a0b1-678e904ad6cf"> |
+Leader, Back-end, DevOps|Back-end, DevOps|Back-end, DevOps|Back-end, DevOps|Back-end, DevOps|
+
+### Front-end Team
+[박준서](https://github.com/JSWING5267)|[송유림](https://github.com/youlimsongs)|[설한나](https://github.com/hannaxannah)|
+------|------|------|
+<img width="150" alt="박준서" src="https://github.com/Techeer-log/.github/assets/134408891/2ba8c63e-08a4-4cfe-b942-de5338929579"> | <img width="150" alt="송유림" src="https://github.com/Techeer-log/.github/assets/134408891/21b98198-7fce-4f23-ba4b-764102d99e3a"> | <img width="150" alt="설한나" src="https://github.com/Techeer-log/.github/assets/134408891/99a3035e-be1e-46cc-8129-9fc72b3df79a"> |
+Front-end|Front-end|Front-end|
