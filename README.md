@@ -1,10 +1,18 @@
 # 👾Techeer.log
-<h3>테커 내에서 진행한 프로젝트 결과물을 공유할 수 있는 서비스</h3>
-<img width="800" alt="page" src="https://github.com/Techeer-log/.github/assets/134408891/1f1ed4cb-681a-4133-a4b2-0e70e6c3adae">
+### <p align = center> 테커 내에서 진행한 프로젝트 결과물을 공유할 수 있는 서비스 <p>
+<div align=center>
+<br> <image width=100%, height=100%, src="https://github.com/Techeer-log/.github/assets/134408891/1f1ed4cb-681a-4133-a4b2-0e70e6c3adae">
+
+<br>**🚀 Techeer에서 진행한 프로젝트가 있으신가요? 지금 바로 등록해주세요 🚀**
+##### URL: https://www.techeer.site
+</div>
+
 
 # 🔗Medium
-✔️[Spring Boot Log4j2 설정하기](https://medium.com/@201924576/spring-boot-log4j2-%EC%84%A4%EC%A0%95-21f3b6da38c6)
-<br>✔️[Pinpoint](https://medium.com/@wndjs803/pinpoint-f1320045ec32)
+✔️[`Spring Boot Log4j2 설정하기`](https://medium.com/@201924576/spring-boot-log4j2-%EC%84%A4%EC%A0%95-21f3b6da38c6)
+<br>✔️[`Pinpoint`](https://medium.com/@wndjs803/pinpoint-f1320045ec32)
+
+
 # 🎥Demo
 |**Sign up and Login**|**Main Page**|
 |:-------------------:|:---------:|
@@ -15,11 +23,11 @@
 |<img width="390" alt="Diary" src="">|<img width="390" alt="View Past" src="">|
 
 # 🖥️System Architecture
-<img src="https://github.com/Techeer-log/.github/assets/134408891/89e48a16-58ee-4c87-8d60-257868ac08ce">
+<img src="https://github.com/Techeer-log/.github/assets/134408891/97e9823b-0a2c-4934-9ff4-58edc6abd115">
 
 ## 💡 Tech stack 
 <br>
-<div align =center>
+<div>
 
 분야| 사용 기술|
 :--------:|:------------------------------:|
@@ -30,13 +38,13 @@
 </div>
 
 # 🗄️DataBase
-<img width="800" alt="ERD" src="https://github.com/Techeer-log/.github/assets/134408891/2be3edb7-1bf3-4da1-a247-7f48838056c3">
+<img width="100%" alt="ERD" src="https://github.com/Techeer-log/.github/assets/134408891/2be3edb7-1bf3-4da1-a247-7f48838056c3">
 
 
 # 📤API
-<img width="800" alt="swagger(1)" src="">
-<img width="800" alt="swagger(2)" src="">
-
+<img width="100%" alt="swagger(1)" src="https://github.com/Techeer-log/.github/assets/134408891/d32c461e-e5cf-4323-806a-e438e94e98e2">
+<img width="100%" alt="swagger(2)" src="https://github.com/Techeer-log/.github/assets/134408891/400e8a94-2132-4c5e-9d74-f4df9ceb5737">
+<img width="100%" alt="swagger(3)" src="https://github.com/Techeer-log/.github/assets/134408891/69ba8460-df7e-4cce-9d9b-890fb1ceb3a9">
 
 
 # 🧑🏼‍💻How To Start
@@ -55,6 +63,7 @@ REGION=
 JWT_TOKEN=
 SERVER_PORT=
 ACTIVE_PROFILE=
+SALT_VALUE=
 ```
 #### /db/db.env
 ```bash
@@ -86,17 +95,17 @@ SPRING_DATASOURCE_PASSWORD=
 
 #### Techeer-log/
 ```bash
-$ docker-compose -f docker-compose.deploy.yml up --build -d
+$ 
 ```
 
 # 👨‍👩‍👧‍👦Members
-### Back-end Team
+### Backend Team
 [정재빈](https://github.com/JaeBin2019)|[이민기](https://github.com/Kiminni)|[김가을](https://github.com/fallkim)|[김주언](https://github.com/wndjs803)|[이동우](https://github.com/dongwooooooo)|
 ------|------|------|------|------|
 <img width="300" alt="정재빈" src="https://github.com/Techeer-log/.github/assets/134408891/baca1dbb-527c-48a9-a28e-8d243cf531cc"> | <img width="300" alt="이민기" src="https://github.com/Techeer-log/.github/assets/134408891/5e5f191e-c50b-428d-8643-a61228ee215d"> | <img width="300" alt="김가을" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/f786596c-4364-4a0b-af1c-e0d7bb5edff1">| <img width="300" alt="김주언" src="https://github.com/Techeer-log/.github/assets/134408891/ef7493a2-d60f-4f67-ad47-fb495215f758"> | <img width="300" alt="이동우" src="https://github.com/Techeer-log/.github/assets/134408891/7fe589e5-4656-479e-a0b1-678e904ad6cf"> |
 Leader, Back-end, DevOps|Back-end, DevOps|Back-end, DevOps|Back-end, DevOps|Back-end, DevOps|
 
-### Front-end Team
+### Frontend Team
 [박준서](https://github.com/JSWING5267)|[송유림](https://github.com/youlimsongs)|[설한나](https://github.com/hannaxannah)|
 ------|------|------|
 <img width="150" alt="박준서" src="https://github.com/Techeer-log/.github/assets/134408891/2ba8c63e-08a4-4cfe-b942-de5338929579"> | <img width="150" alt="송유림" src="https://github.com/Techeer-log/.github/assets/134408891/21b98198-7fce-4f23-ba4b-764102d99e3a"> | <img width="150" alt="설한나" src="https://github.com/Techeer-log/.github/assets/134408891/99a3035e-be1e-46cc-8129-9fc72b3df79a"> |
