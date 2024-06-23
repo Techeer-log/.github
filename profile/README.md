@@ -3,7 +3,7 @@
 <div align=center>
 <br> <image width=100%, height=100%, src="https://github.com/Techeer-log/.github/assets/134408891/1f1ed4cb-681a-4133-a4b2-0e70e6c3adae">
 
-<br>**🚀 Techeer에서 진행한 프로젝트가 있으신가요? 지금 바로 등록해주세요 🚀**
+### <p align = center> 🚀 Techeer에서 진행한 프로젝트가 있으신가요? 지금 바로 등록해주세요 🚀 <p>
 ##### URL: https://www.techeer.site
 </div>
 
