@@ -1,9 +1,9 @@
 # 👾Techeer.log
-### <p align = center> 테커 내에서 진행한 프로젝트 결과물을 공유할 수 있는 서비스 <p>
 <div align=center>
 <br> <image width=100%, height=100%, src="https://github.com/Techeer-log/.github/assets/134408891/1f1ed4cb-681a-4133-a4b2-0e70e6c3adae">
-
-### <p align = center> 🚀 Techeer에서 진행한 프로젝트가 있으신가요? 지금 바로 등록해주세요 🚀 <p>
+  
+### <p align = center> 테커 내에서 진행한 프로젝트 결과물을 공유할 수 있는 서비스 <p>
+<br>**🚀 Techeer에서 진행한 프로젝트가 있으신가요? 지금 바로 등록해주세요 🚀**
 ##### URL: https://www.techeer.site
 </div>
 
@@ -103,10 +103,10 @@ $
 [정재빈](https://github.com/JaeBin2019)|[이민기](https://github.com/Kiminni)|[김가을](https://github.com/fallkim)|[김주언](https://github.com/wndjs803)|[이동우](https://github.com/dongwooooooo)|
 ------|------|------|------|------|
 <img width="300" alt="정재빈" src="https://github.com/Techeer-log/.github/assets/134408891/baca1dbb-527c-48a9-a28e-8d243cf531cc"> | <img width="300" alt="이민기" src="https://github.com/Techeer-log/.github/assets/134408891/5e5f191e-c50b-428d-8643-a61228ee215d"> | <img width="300" alt="김가을" src="https://github.com/2023-Winter-Bootcamp-Team-K/.github/assets/67044438/f786596c-4364-4a0b-af1c-e0d7bb5edff1">| <img width="300" alt="김주언" src="https://github.com/Techeer-log/.github/assets/134408891/ef7493a2-d60f-4f67-ad47-fb495215f758"> | <img width="300" alt="이동우" src="https://github.com/Techeer-log/.github/assets/134408891/7fe589e5-4656-479e-a0b1-678e904ad6cf"> |
-Leader, Back-end, DevOps|Back-end, DevOps|Back-end, DevOps|Back-end, DevOps|Back-end, DevOps|
+Leader, Backend, DevOps|Backend, DevOps|Backend, DevOps|Backend, DevOps|Backend, DevOps|
 
 ### Frontend Team
 [박준서](https://github.com/JSWING5267)|[송유림](https://github.com/youlimsongs)|[설한나](https://github.com/hannaxannah)|
 ------|------|------|
 <img width="150" alt="박준서" src="https://github.com/Techeer-log/.github/assets/134408891/2ba8c63e-08a4-4cfe-b942-de5338929579"> | <img width="150" alt="송유림" src="https://github.com/Techeer-log/.github/assets/134408891/21b98198-7fce-4f23-ba4b-764102d99e3a"> | <img width="150" alt="설한나" src="https://github.com/Techeer-log/.github/assets/134408891/99a3035e-be1e-46cc-8129-9fc72b3df79a"> |
-Front-end|Front-end|Front-end|
+Frontend|Frontend|Frontend|
