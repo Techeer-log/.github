@@ -99,5 +99,5 @@ Leader, Backend, DevOps|Backend, DevOps|Backend, DevOps|Backend, DevOps|Backend,
 ### Frontend Team
 [박준서](https://github.com/JSWING5267)|[송유림](https://github.com/youlimsongs)|[설한나](https://github.com/hannaxannah)|[김미영](https://github.com/miyoung12)|
 ------|------|------|------|
-<img width="150" alt="박준서" src="https://github.com/Techeer-log/.github/assets/134408891/2ba8c63e-08a4-4cfe-b942-de5338929579"> | <img width="150" alt="송유림" src="https://github.com/Techeer-log/.github/assets/134408891/21b98198-7fce-4f23-ba4b-764102d99e3a"> | <img width="150" alt="설한나" src="https://github.com/Techeer-log/.github/assets/134408891/99a3035e-be1e-46cc-8129-9fc72b3df79a"> | | <img width="150" alt="김미영" src="https://github.com/Techeer-log/.github/assets/134408891/99a3035e-be1e-46cc-8129-9fc72b3df79a"> |
+<img width="150" alt="박준서" src="https://github.com/Techeer-log/.github/assets/134408891/2ba8c63e-08a4-4cfe-b942-de5338929579"> | <img width="150" alt="송유림" src="https://github.com/Techeer-log/.github/assets/134408891/21b98198-7fce-4f23-ba4b-764102d99e3a"> | <img width="150" alt="설한나" src="https://github.com/Techeer-log/.github/assets/134408891/99a3035e-be1e-46cc-8129-9fc72b3df79a"> | | <img width="150" alt="김미영" src="https://github.com/user-attachments/assets/032a407d-f102-442a-8d40-7dabb96d9fd1"> |
 Frontend|Frontend|Frontend|Frontend|
