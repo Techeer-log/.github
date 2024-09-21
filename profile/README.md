@@ -1,6 +1,6 @@
 # 👾Techeer.log
 <div align=center>
-<br> <image width=100%, height=100%, src="https://github.com/Techeer-log/.github/assets/134408891/1f1ed4cb-681a-4133-a4b2-0e70e6c3adae">
+<br> <image width=90%, height=90%, src="https://github.com/user-attachments/assets/329381ec-865d-42c1-ba17-fa876585f1bf">
   
 ### <p align = center> 테커 내에서 진행한 프로젝트 결과물을 공유할 수 있는 서비스 <p>
 <br>**🚀 Techeer에서 진행한 프로젝트가 있으신가요? 지금 바로 등록해주세요 🚀**
@@ -17,10 +17,10 @@
 |**Sign up and Login**|**Main Page**|
 |:-------------------:|:---------:|
 |<img width="100%" alt="Sign up and Login" src="https://github.com/Techeer-log/.github/assets/134408891/20932cb1-724b-4fe6-90b5-a09e99a8d593">|<img width="100%" alt="Main" src="https://github.com/Techeer-log/.github/assets/134408891/5b61cb08-84c0-43f8-b3da-1cc37955b88e">|
-|**Project Writing**|**Project writing_markdown**|
-|<img width="100%" alt="project writing" src="https://github.com/Techeer-log/.github/assets/134408891/203183cb-6689-4107-9229-d5ef392b1a2e">|<img width="100%" alt="project markdown" src="https://github.com/Techeer-log/.github/assets/134408891/fae83633-9b62-44a9-a230-b9de8d64f081">|
-|**Project Filtering**|**Search**|
+|**Project Page**|**Search**|
 |<img width="100%" alt="filter" src="https://github.com/Techeer-log/.github/assets/134408891/dae048f3-49b0-4a6e-82cc-15a52f0e74a8">|<img width="100%" alt="search" src="https://github.com/Techeer-log/.github/assets/134408891/ce66796c-7f50-4876-a73a-3cafcd916f3e">|
+|**Write Project**|**Markdown**|
+|<img width="100%" alt="project writing" src="https://github.com/Techeer-log/.github/assets/134408891/203183cb-6689-4107-9229-d5ef392b1a2e">|<img width="100%" alt="project markdown" src="https://github.com/Techeer-log/.github/assets/134408891/fae83633-9b62-44a9-a230-b9de8d64f081">|
 
 # 🖥️System Architecture
 <img src="https://github.com/Techeer-log/.github/assets/134408891/97e9823b-0a2c-4934-9ff4-58edc6abd115">
