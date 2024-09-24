@@ -16,9 +16,9 @@
 # 🎥Demo
 |**Sign up and Login**|**Main Page**|
 |:-------------------:|:---------:|
-|<img width="100%" alt="Sign up and Login" src="https://github.com/Techeer-log/.github/assets/134408891/20932cb1-724b-4fe6-90b5-a09e99a8d593">|<img width="100%" alt="Main" src="https://github.com/user-attachments/assets/6d43fe6f-e9dd-460b-b3a4-b80cb0ebecad">|
+|<img width="100%" alt="Sign up and Login" src="https://github.com/Techeer-log/.github/assets/134408891/20932cb1-724b-4fe6-90b5-a09e99a8d593">|<img width="100%" alt="Main" src="https://github.com/Techeer-log/.github/blob/main/mainpage.gif">|
 |**Project Page**|**Search**|
-|<img width="100%" alt="filter" src="https://github.com/user-attachments/assets/e414c4d4-d703-439a-9671-7d987d45e514">|<img width="100%" alt="search" src="https://github.com/user-attachments/assets/5b742a5b-7ff2-488b-b4ac-61bd1b6c9250">|
+|<img width="100%" alt="filter" src="https://github.com/Techeer-log/.github/blob/main/projectpage.gif">|<img width="100%" alt="search" src="https://github.com/Techeer-log/.github/blob/main/search.gif">|
 |**Write Project**|**Markdown**|
 |<img width="100%" alt="project writing" src="https://github.com/Techeer-log/.github/assets/134408891/203183cb-6689-4107-9229-d5ef392b1a2e">|<img width="100%" alt="project markdown" src="https://github.com/Techeer-log/.github/assets/134408891/fae83633-9b62-44a9-a230-b9de8d64f081">|
 
