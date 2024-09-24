@@ -1,7 +1,7 @@
 # 👾Techeer.log
 <div align=center>
-<br> <image width=90%, height=90%, src="https://github.com/user-attachments/assets/329381ec-865d-42c1-ba17-fa876585f1bf">
-  
+<br> <image width=90%, height=90%, src="https://github.com/Techeer-log/.github/blob/main/main.png">
+
 ### <p align = center> 테커 내에서 진행한 프로젝트 결과물을 공유할 수 있는 서비스 <p>
 <br>**🚀 Techeer에서 진행한 프로젝트가 있으신가요? 지금 바로 등록해주세요 🚀**
 ##### URL: https://www.techeer.site
